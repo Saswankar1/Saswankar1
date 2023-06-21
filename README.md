@@ -22,7 +22,6 @@
   <a href="https://twitter.com/saswankar_dev0" target="_blank">
     <img src="https://img.shields.io/twitter/follow/saswankar_dev0?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
   </a>
-  
   <a href="https://linkedin.com/in/saswankarburagohain" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
   </a>
@@ -47,6 +46,6 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=asaswankar1&show_icons=true&locale=en&layout=compact" alt="saswankar1" style="margin: 40px;"/></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saswankar1&show_icons=true&locale=en" alt="saswankar1" style="margin: 40px;"/></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saswankar1&show_icons=true&locale=en" alt="saswankar1" style="margin: 100px;"/></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saswankar1&" alt="saswankar1" style="margin: 40px;"/></p>
