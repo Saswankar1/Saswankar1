@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Saswankar Bura Gohain</h1>
 <h3 align="center">A Blockchain developer from India</h3>
-<img width="400" align="center" src="https://www.technoloader.com/blog/wp-content/uploads/2020/07/Hire-a-Blockchain-Developer.gif" alt="">
-
+<p align="center">
+  <img width="400" src="https://www.technoloader.com/blog/wp-content/uploads/2020/07/Hire-a-Blockchain-Developer.gif" alt="">
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saswankar1&label=Profile%20views&color=0e75b6&style=flat" alt="saswankar1" /> </p>
 
 <p align="left"> <a href="https://twitter.com/saswankar_dev0" target="blank"><img src="https://img.shields.io/twitter/follow/saswankar_dev0?logo=twitter&style=for-the-badge" alt="saswankar_dev0" /></a> </p>
@@ -38,8 +39,8 @@
   
 - Python
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saswankar1&show_icons=true&locale=en&layout=compact" alt="saswankar1" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=asaswankar1&show_icons=true&locale=en&layout=compact" alt="saswankar1" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saswankar1&show_icons=true&locale=en" alt="saswankar1" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saswankar1&show_icons=true&locale=en" alt="saswankar1" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saswankar1&" alt="saswankar1" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saswankar1&" alt="saswankar1" /></p>
