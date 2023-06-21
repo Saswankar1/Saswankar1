@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saswankar Bura Gohain</h1>
 <h3 align="center">A Blockchain developer from India</h3>
-<img width="400" src="https://www.technoloader.com/blog/wp-content/uploads/2020/07/Hire-a-Blockchain-Developer.gif" alt="">
+<img width="400" align="center" src="https://www.technoloader.com/blog/wp-content/uploads/2020/07/Hire-a-Blockchain-Developer.gif" alt="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saswankar1&label=Profile%20views&color=0e75b6&style=flat" alt="saswankar1" /> </p>
 
@@ -19,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/saswankar_dev0" target="blank">MY TWITTER</a>
-<span>  </span>
+<p>  </p>
 <a href="https://linkedin.com/in/saswankarburagohain" target="blank">MY LINKEDIN</a>
 </p>
 
@@ -27,6 +27,8 @@
 
 
 - Solidity
+
+- Smart Contract
 
 - Hardhat, truffle, ganache
   
@@ -36,8 +38,8 @@
   
 - Python
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=saswankar1&show_icons=true&locale=en&layout=compact" alt="saswankar1" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saswankar1&show_icons=true&locale=en&layout=compact" alt="saswankar1" /></p>
 
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=saswankar1&show_icons=true&locale=en" alt="saswankar1" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saswankar1&show_icons=true&locale=en" alt="saswankar1" /></p>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=saswankar1&" alt="saswankar1" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saswankar1&" alt="saswankar1" /></p>
