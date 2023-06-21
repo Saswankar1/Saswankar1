@@ -19,15 +19,21 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/saswankar_dev0" target="blank">MY TWITTER</a>
+<span></span>
 <a href="https://linkedin.com/in/saswankarburagohain" target="blank">MY LINKEDIN</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 - Ethereum Development
+
 - Solidity
+
 - Hardhat, truffle, ganache
+  
 - Foundry
+  
 - Full Stack web dev
+  
 - Python
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saswankar1&show_icons=true&locale=en&layout=compact" alt="saswankar1" /></p>
