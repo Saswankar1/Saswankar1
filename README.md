@@ -18,12 +18,17 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/saswankar_dev0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saswankar_dev0" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/saswankarburagohain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saswankarburagohain" height="30" width="40" /></a>
+<a href="https://twitter.com/saswankar_dev0" target="blank">MY TWITTER</a>
+<a href="https://linkedin.com/in/saswankarburagohain" target="blank">MY LINKEDIN</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-
+- Ethereum Development
+- Solidity
+- Hardhat, truffle, ganache
+- Foundry
+- Full Stack web dev
+- Python
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saswankar1&show_icons=true&locale=en&layout=compact" alt="saswankar1" /></p>
 
