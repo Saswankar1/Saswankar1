@@ -44,8 +44,10 @@
   
 - Python
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=asaswankar1&show_icons=true&locale=en&layout=compact" alt="saswankar1" style="margin: 40px;"/></p>
+<h3 align="left">Stats/Charts</h3>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saswankar1&show_icons=true&locale=en" alt="saswankar1" style="margin: 100px;"/></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saswankar1&show_icons=true&locale=en&layout=compact" alt="saswankar1" style="margin:40px"/></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saswankar1&" alt="saswankar1" style="margin: 40px;"/></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saswankar1&show_icons=true&locale=en" alt="saswankar1" style="margin:40px"/></p>
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saswankar1&" alt="saswankar1" style="margin:40px"/></p>
