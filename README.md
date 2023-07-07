@@ -1,53 +1,43 @@
-<h1 align="center">Hi 👋, I'm Saswankar Bura Gohain</h1>
-<h3 align="center">A Blockchain developer from India</h3>
+<h1 align="center">Hi there, I'm Saswankar Bura Gohain 👋</h1>
+<h3 align="center">Blockchain Developer | Full Stack Web Developer</h3>
 <p align="center">
-  <img width="400" src="https://www.technoloader.com/blog/wp-content/uploads/2020/07/Hire-a-Blockchain-Developer.gif" alt="">
-</p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saswankar1&label=Profile%20views&color=0e75b6&style=flat" alt="saswankar1" /> </p>
-
-<p align="left"> <a href="https://twitter.com/saswankar_dev0" target="blank"><img src="https://img.shields.io/twitter/follow/saswankar_dev0?logo=twitter&style=for-the-badge" alt="saswankar_dev0" /></a> </p>
-
-- 🔭 I’m currently working on **ERC20token project**
-
-- 🌱 I’m currently learning **Foundry, Hardhat**
-
-- 💬 Ask me about **blockchain, web3, ethereum**
-
-- 📫 How to reach me **rajburagohain0@gmail.com**
-
-- ⚡ Fun fact **I am a lazy, introvert and love to read novels**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/saswankar_dev0" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/saswankar_dev0?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
-  </a>
-  <a href="https://linkedin.com/in/saswankarburagohain" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
-  </a>
-
+  <img width="400" src="https://www.technoloader.com/blog/wp-content/uploads/2020/07/Hire-a-Blockchain-Developer.gif" alt="Blockchain Developer">
 </p>
 
+<p align="center">
+  <a href="https://twitter.com/saswankar_dev0" target="_blank"><img src="https://img.shields.io/twitter/follow/saswankar_dev0?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="https://linkedin.com/in/saswankarburagohain" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3>About Me</h3>
+<p>
+  I'm a passionate blockchain developer with experience in Solidity, smart contract development, and full-stack web development. I'm always eager to learn new technologies and explore the possibilities of decentralized applications. Feel free to reach out to me for any blockchain-related discussions or collaborations!
+</p>
 
+<h3>Languages and Tools</h3>
+<p>
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity">
+  <img src="https://img.shields.io/badge/Smart%20Contract-363636?style=for-the-badge" alt="Smart Contract">
+  <img src="https://img.shields.io/badge/Hardhat%20-%2341212E.svg?style=for-the-badge&logo=hardhat&logoColor=white" alt="Hardhat">
+  <img src="https://img.shields.io/badge/Truffle%20-%235E81AC.svg?style=for-the-badge&logo=truffle&logoColor=white" alt="Truffle">
+  <img src="https://img.shields.io/badge/Ganache%20-%231F2E3A.svg?style=for-the-badge&logo=ganache&logoColor=white" alt="Ganache">
+  <img src="https://img.shields.io/badge/Foundry-222222?style=for-the-badge" alt="Foundry">
+  <img src="https://img.shields.io/badge/Full%20Stack%20Web%20Dev-363636?style=for-the-badge" alt="Full Stack Web Dev">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+</p>
 
-- Solidity
+<h3>Stats and Charts</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saswankar1&show_icons=true&layout=compact&langs_count=8&theme=dark" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saswankar1&show_icons=true&locale=en&count_private=true&theme=dark" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saswankar1&theme=dark" alt="GitHub Streak" />
+</p>
 
-- Smart Contract
-
-- Hardhat, truffle, ganache
-  
-- Foundry
-  
-- Full Stack web dev
-  
-- Python
-
-<h3 align="left">Stats/Charts</h3>
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saswankar1&show_icons=true&locale=en&layout=compact" alt="saswankar1" style="margin:40px"/></p>
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saswankar1&show_icons=true&locale=en" alt="saswankar1" style="margin:40px"/></p>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saswankar1&" alt="saswankar1" style="margin:40px"/></p>
+<h3>Let's Connect</h3>
+<p align="center">
+  <a href="mailto:rajburagohain0@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+</p>
