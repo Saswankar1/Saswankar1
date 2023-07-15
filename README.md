@@ -26,6 +26,8 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 </p>
 
+---
+
 <h3>Stats and Charts</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saswankar1&show_icons=true&layout=compact&langs_count=8&theme=dark" alt="Top Languages" />
