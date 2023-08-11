@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Saswankar Bura Gohain 👋</h1>
 <h3 align="center">Blockchain Developer | Full Stack Web Developer</h3>
 <p align="center">
-  <img width="400" src="https://www.technoloader.com/blog/wp-content/uploads/2020/07/Hire-a-Blockchain-Developer.gif" alt="Blockchain Developer">
+  <img width="400" src="https://qph.cf2.quoracdn.net/main-qimg-3bd139022dfbf3b91ec200318cc13148">
 </p>
 
 <p align="center">
