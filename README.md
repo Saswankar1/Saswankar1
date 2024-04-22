@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Saswankar Bura Gohain 👋</h1>
-<h3 align="center">Blockchain Developer | Full Stack Web Developer</h3>
+<h3 align="center">Data Scientist | Blockchain Developer | Full Stack Web Developer</h3>
 <p align="center">
   <img width="400" src="https://qph.cf2.quoracdn.net/main-qimg-3bd139022dfbf3b91ec200318cc13148">
 </p>
