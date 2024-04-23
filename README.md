@@ -16,7 +16,7 @@
 <p>
     I'm a versatile professional with expertise in blockchain development, specializing in Solidity and smart contract development, alongside full-stack web development. With a passion for decentralized applications, I've built various projects, from token contracts to complex DeFi protocols. 
     
-    Additionally, I'm adept at data science, leveraging analytical skills to derive insights and solutions from complex datasets across diverse industries. Eager to collaborate on innovative blockchain projects or data science endeavors, I'm always open to engaging discussions and partnerships.
+Additionally, I'm adept at data science, leveraging analytical skills to derive insights and solutions from complex datasets across diverse industries. Eager to collaborate on innovative blockchain projects or data science endeavors, I'm always open to engaging discussions and partnerships.
 </p>
 
 ## Languages and Tools 
