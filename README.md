@@ -1,4 +1,5 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Saswankar1)](https://github.com/ryo-ma/github-profile-trophy)
+---
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Saswankar+Bura+Gohain!;" />
@@ -75,7 +76,7 @@ Additionally, I'm adept at data science, leveraging analytical skills to derive 
 
 ---
 
-<h3>Let's Connect</h3>
+<h3>Let's Connect :mailbox:</h3>
 <p align="center">
   <a href="mailto:rajburagohain0@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
   <a href="https://twitter.com/saswankar_dev0" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
