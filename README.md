@@ -60,9 +60,15 @@ Additionally, I'm adept at data science, leveraging analytical skills to derive 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saswankar1&show_icons=true&layout=compact&langs_count=8&theme=dark" alt="Top Languages" />
 </p>
+
+---
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=saswankar1&show_icons=true&locale=en&count_private=true&theme=dark" alt="GitHub Stats" />
 </p>
+
+---
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=saswankar1&theme=dark" alt="GitHub Streak" />
 </p>
