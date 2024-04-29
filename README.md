@@ -12,11 +12,11 @@
 
 <p align="center">
   <a href="https://twitter.com/saswankar_dev0" target="_blank"><img src="https://img.shields.io/twitter/follow/saswankar_dev0?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="https://linkedin.com/in/saswankarburagohain" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/saswankar-bura-gohain-266572247/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/saswankarburagohain" target="_blank"><img src="https://img.shields.io/badge/linkedin-black?style=flat&logo=linkedin&logoColor=white&labelColor=black&color=black"></a>
+  <a href="https://www.linkedin.com/in/saswankar-bura-gohain-266572247/" target="_blank"><img src="https://img.shields.io/badge/linkedin-black?style=flat&logo=linkedin&logoColor=white&labelColor=black&color=black"></a>
   <a href="mailto:rajburagohain0@gmail.com"><img src="https://img.shields.io/badge/gmail-black?style=flat&logo=gmail&logoColor=white&labelColor=black&color=black"></a>
   <a href="[https://twitter.com/raj_b_dutta](https://twitter.com/saswankar_dev0)" target="_blank"><img src="https://img.shields.io/badge/Twitter-black?style=flat&logo=X&logoColor=white&labelColor=black&color=black"></a>
   <a href="https://www.instagram.com/s_w_s_.ly/"><img src="https://img.shields.io/badge/instagram-black?style=flat&logo=instagram&logoColor=white&labelColor=black&color=black"></a>
