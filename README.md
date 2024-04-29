@@ -15,6 +15,14 @@
   <a href="https://linkedin.com/in/saswankarburagohain" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
+<p align="center">
+  <a href="https://linkedin.com/in/saswankarburagohain" target="_blank"><img src="https://img.shields.io/badge/linkedin-black?style=flat&logo=linkedin&logoColor=white&labelColor=black&color=black"></a>
+  <a href="mailto:rajburagohain0@gmail.com"><img src="https://img.shields.io/badge/gmail-black?style=flat&logo=gmail&logoColor=white&labelColor=black&color=black"></a>
+  <a href="[https://twitter.com/raj_b_dutta](https://twitter.com/saswankar_dev0)" target="_blank"><img src="https://img.shields.io/badge/Twitter-black?style=flat&logo=X&logoColor=white&labelColor=black&color=black"></a>
+  <a href="https://www.instagram.com/s_w_s_.ly/"><img src="https://img.shields.io/badge/instagram-black?style=flat&logo=instagram&logoColor=white&labelColor=black&color=black"></a>
+</p>
+<hr style="border: 1px solid black;"> 
+
 <h3>About Me</h3>
 <p>
     I'm a versatile professional with expertise in blockchain development, specializing in Solidity and smart contract development, alongside full-stack web development. With a passion for decentralized applications, I've built various projects, from token contracts to complex DeFi protocols. 
@@ -84,14 +92,5 @@ Additionally, I'm adept at data science, leveraging analytical skills to derive 
 </p>
 
 ---
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/raj-ballav-dutta-00242a303" target="_blank"><img src="https://img.shields.io/badge/linkedin-black?style=flat&logo=linkedin&logoColor=white&labelColor=black&color=black"></a>
-  <a href="mailto:duttaraj327@gmail.com"><img src="https://img.shields.io/badge/gmail-black?style=flat&logo=gmail&logoColor=white&labelColor=black&color=black"></a>
-  <a href="https://twitter.com/raj_b_dutta" target="_blank"><img src="https://img.shields.io/badge/Twitter-black?style=flat&logo=X&logoColor=white&labelColor=black&color=black"></a>
-  <a href="https://wa.me/qr/I6L44H3NVRVXP1"><img src="https://img.shields.io/badge/whatsapp-black?style=flat&logo=whatsapp&logoColor=white&labelColor=black&color=black"></a>
-  <a href="https://www.instagram.com/_._r1sh1_._?igsh=dnN2eTVlYWdmcThy"><img src="https://img.shields.io/badge/instagram-black?style=flat&logo=instagram&logoColor=white&labelColor=black&color=black"></a>
-</p>
-<hr style="border: 1px solid black;"> 
 
 <p align="center">🚀 Check out my repositories below! 🚀</p>
