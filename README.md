@@ -1,4 +1,4 @@
-https://github-profile-trophy.vercel.app/?username=Saswankar1&theme=monokai
+
 ---
 
 <h1 align="center">
