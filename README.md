@@ -1,9 +1,10 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Saswankar1&theme=onedark&margin-w=15&no-frame=true)](https://github.com/Saswankar1/github-profile-trophy)
 ---
 
-<h1 align="center">
+<h1 align="center" style="color: #ff69b4;">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Saswankar+Bura+Gohain!;" />
 </h1>
+
 
 <h3 align="center">Data Scientist | Blockchain Developer | Full Stack Web Developer</h3>
 <p align="center">
@@ -88,7 +89,7 @@ Additionally, I'm adept at data science, leveraging analytical skills to derive 
 <p align="center">
   <a href="mailto:rajburagohain0@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
   <a href="https://twitter.com/saswankar_dev0" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="https://linkedin.com/in/saswankarburagohain" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/saswankar-bura-gohain-266572247/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 ---
