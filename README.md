@@ -1,7 +1,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Saswankar1&theme=onedark&margin-w=15&no-frame=true)](https://github.com/Saswankar1/github-profile-trophy)
 ---
 
-color=5643F7
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=5643F7&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
 </h1>
