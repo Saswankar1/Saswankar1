@@ -1,14 +1,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Saswankar1&theme=onedark&margin-w=15&no-frame=true)](https://github.com/Saswankar1/github-profile-trophy)
 ---
 
-<style>
-    .typing-text {
-        color: #ff69b4; /* Change this to the desired color */
-    }
-</style>
-
 <h1 align="center">
-    <img class="typing-text" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Saswankar+Bura+Gohain!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=red&duration=4000&lines=Hi+There!+👋;+I'm+Saswankar+Bura+Gohain!;" />
 </h1>
 
 
