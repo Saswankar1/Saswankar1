@@ -1,7 +1,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Saswankar1&theme=onedark&margin-w=15&no-frame=true)](https://github.com/Saswankar1/github-profile-trophy)
 ---
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=10&color=5643F7&random=false&width=435&lines=Hello+there!+%F0%9F%91%8B;My+name+is+Saswankar+Bura+Gohain" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=10&color=5643F7&center=true&vCenter=true&width=500&height=7&random=false&width=435&lines=Hello+there!+%F0%9F%91%8B;My+name+is+Saswankar+Bura+Gohain" alt="Typing SVG" /></a>
 
 
 
