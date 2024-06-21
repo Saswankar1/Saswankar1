@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=Saswankar1&title=Stars,Commits,Repositories,MultipleLang,PullRequest&theme=onedark&margin-w=15&no-frame=true)](https://github.com/Saswankar1/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Saswankar1&title=Stars,Commits,Repositories,MultipleLang,PullRequest&theme=onedark&margin-w=35&no-frame=true)](https://github.com/Saswankar1/github-profile-trophy)
 
 ---
 
