@@ -1,7 +1,6 @@
 
-<a align='center'>
 [![trophy](https://github-profile-trophy.vercel.app/?username=Saswankar1&title=Stars,Commits,Repositories,MultipleLang,Experience,PullRequest&theme=onedark&margin-w=50&no-frame=true)](https://github.com/Saswankar1/github-profile-trophy)
-</a>
+
 ---
 
 <h1 align="center">
