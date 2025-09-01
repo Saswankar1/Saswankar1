@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # runs every day
+    - cron: "0 0 * * *"  # runs daily at midnight
   workflow_dispatch:
 
 jobs:
@@ -10,14 +10,17 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
-          github_user_name: Saswankar1
+          github_user_name: Saswankar1   # <-- your username
           outputs: dist/github-snake.svg
 
-      - name: Push Snake
+      - name: Commit and push
         uses: EndBug/add-and-commit@v9
         with:
-          message: "generated snake"
+          message: "Generated snake"
           add: "dist"
