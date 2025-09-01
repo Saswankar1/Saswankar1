@@ -63,8 +63,9 @@ Additionally, I'm adept at data science, leveraging analytical skills to derive 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Saswankar1/Saswankar1/output/dist/github-snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/Saswankar1/Saswankar1/output/github-contribution-grid-snake-dark.gif" alt="snake animation"/>
 </p>
+
 
 
 ---
