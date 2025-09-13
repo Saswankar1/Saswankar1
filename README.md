@@ -90,4 +90,4 @@ Additionally, I'm adept at data science, leveraging analytical skills to derive 
 
 ---
 
-<p align="center">🚀 Check out my repositories below! 🚀</p>
+<p align="center">🚀 Check out all of my repositories below! 🚀</p>
