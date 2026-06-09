@@ -26,12 +26,17 @@
 </p>
 <hr style="border: 1px solid black;"> 
 
-<h3>About Me</h3>
-<p>
-    I'm a versatile professional with expertise in Data Science using Python, specializing in Solidity and smart contract development, alongside full-stack web development. With a passion for decentralized applications, I've built various projects, from token contracts to complex DeFi protocols. 
-    
-Additionally, I'm adept at data science, leveraging analytical skills to derive insights and solutions from complex datasets across diverse industries. Eager to collaborate on innovative blockchain projects or data science endeavors, I'm always open to engaging discussions and partnerships.
-</p>
+### About Me
+I'm a production-focused AI Engineer and Full-Stack Developer who loves bridging the gap between complex data math and scalable software products. My engineering background combines deep theoretical computer science fundamentals with hands-on architecture design. 
+
+I specialize in building intelligent applications using Python, advanced Machine Learning models, and modern Generative AI frameworks (RAG, multi-agent systems, and LangGraph). Because I also speak JavaScript, SQL, and Full-Stack architectures fluently, I don't just build isolated models—I deploy them into production-ready web platforms with robust database layers under the hood. 
+
+Always excited to talk about production AI deployment, autonomous agents, optimization problems, or data engineering pipelines! Let's connect and build something non-trivial. 🧠💼
+
+### 🛠️ What I'm Up To Right Now
+- 🔭 **Building in Public:** Engineering a comprehensive repository of Agentic AI pipelines, advanced RAG architectures, and custom state charts.
+- ⚡ **Current Focus:** Deep-diving into production MLOps deployment, LangGraph orchestration, and advanced database indexing.
+- 📈 **Core Strength:** Combining deep analytical math skills with a full-stack engineering mindset to ship production-grade AI.
 
 ## Languages and Tools 
 <div>
